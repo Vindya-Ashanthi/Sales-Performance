@@ -2,7 +2,7 @@
 A single-page, no-scroll executive sales performance dashboard built in Google Sheets. Designed for high-level visibility into revenue metrics, monthly sales velocity, product distribution, and regional performance.
 -------------------------------
 ## 📊Dashboard Preview
-Dashboard.png
+[Dashboard.png](https://github.com/Vindya-Ashanthi/Sales-Performance/blob/main/Dashboard.png)
 -------------------------------
 ## 🔑Key Features
 Single Screen, no scrolling
