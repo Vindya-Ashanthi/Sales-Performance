@@ -1,2 +1,4 @@
 # Sales-Performance
-A one-page sales performance dashboard built to track key revenue KPIs, product performance, and regional trends without scrolling.
+# Executive Summary
+An interactive, single-screen executive dashboard designed in Google Sheets to track core sales KPIs, monthly trends, and regional product breakdowns.
+
