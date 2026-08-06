@@ -1,2 +1,2 @@
 # Sales-Performance
-Google Sheets
+A one-page sales performance dashboard built to track key revenue KPIs, product performance, and regional trends without scrolling.
